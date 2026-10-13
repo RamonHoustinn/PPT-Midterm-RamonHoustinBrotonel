@@ -1,13 +1,13 @@
 STUDENT RECORD
 
 Full name: Ramon Houstin Brotonel
-Student ID: [TO COMPLETE]
-Course / Program: [TO COMPLETE]
-Year level: [TO COMPLETE]
-Section: [TO COMPLETE]
-School / Institution: [TO COMPLETE]
-Instructor: [TO COMPLETE]
-Academic year / Semester: [TO COMPLETE]
+Student ID: 202210033
+Course / Program: BSCSSE
+Year level: 3rd
+Section: SE32
+School / Institution: FEU Alabang
+Instructor: Arlene B. Laurel
+Academic year / Semester: 1ST TERM SY2026-2027
 
 Subject: Programming Tools and Techniques
 Activity: Git and GitHub Midterm Practical Exam
