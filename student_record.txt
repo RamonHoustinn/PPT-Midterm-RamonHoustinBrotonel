@@ -1,0 +1,17 @@
+STUDENT RECORD
+
+Full name: Ramon Houstin Brotonel
+Student ID: [TO COMPLETE]
+Course / Program: [TO COMPLETE]
+Year level: [TO COMPLETE]
+Section: [TO COMPLETE]
+School / Institution: [TO COMPLETE]
+Instructor: [TO COMPLETE]
+Academic year / Semester: [TO COMPLETE]
+
+Subject: Programming Tools and Techniques
+Activity: Git and GitHub Midterm Practical Exam
+GitHub username: RamonHoustinn
+
+Before submission, replace the bracketed academic fields with accurate details.
+Only include personal details that your instructor requires for a public repository.

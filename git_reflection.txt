@@ -1,0 +1,31 @@
+GIT AND GITHUB REFLECTION
+Student: Ramon Houstin Brotonel
+
+Git
+Git is a distributed version control system. It records project changes as
+commits, lets me compare versions, and helps me recover earlier work. Each clone
+has its own repository history, so many operations work without the internet.
+
+GitHub
+GitHub is an online service for hosting Git repositories. It lets developers
+share code, review changes through pull requests, and collaborate on projects.
+Git tracks versions; GitHub provides a place to share and manage those versions.
+
+Commits
+A commit records a snapshot of the changes selected in the staging area and
+stores it in the local repository with a message and author information. A clear
+message explains the purpose of the change. Committing does not upload to GitHub.
+
+Branches
+A branch is a movable reference to a line of commits. A feature branch lets me
+develop changes separately from main and merge them when they are ready.
+
+Pull Requests
+A pull request proposes merging changes from one branch into another on GitHub.
+It shows the differences and supports discussion and review. Opening a pull
+request does not merge the changes; merging is a separate step.
+
+Reflection
+This workflow shows why small commits, accurate filenames, and verification
+matter. I should inspect git status before committing and check the target branch
+online after a merge. I can use these habits to keep future projects organized.
